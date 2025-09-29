@@ -14,5 +14,5 @@ To prevent from losing codes in the future remember to make a backup every time 
 ### Common recovery links:
 
 - [Google](https://support.google.com/accounts/answer/185834)
-- [Twitter](https://help.twitter.com/en/managing-your-account/issues-with-login-authentication)
+- [instagram](https://help.instagram.com/en/managing-your-account/issues-with-login-authentication)
 - [Facebook](https://www.facebook.com/help/147926301947841)
